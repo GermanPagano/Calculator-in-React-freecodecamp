@@ -39,22 +39,4 @@
 }
 
 
-@media (max-width: 43rem) {
-  .App {
-      padding: 0px;
-      align-items:stretch;
-      padding: 30px;
-
-
-  }
-  .contenedor-cacl{
-    width: 100%;
-    height: 90vh;
-    padding: 5px;
-  }
-  .contenedor-titulo{
-      display: none;
-
-  }
-};
 
