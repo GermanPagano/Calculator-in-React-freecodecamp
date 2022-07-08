@@ -1,0 +1,28 @@
+.clear{
+
+    display: flex;
+
+    
+    align-items: center;
+    justify-content: center;
+    
+    height: 80px;
+    width: 100%;
+    margin: 5px;
+
+    font-weight: bold;
+    font-size: 38px;
+
+    background-color:rgba(255, 0, 0, 0.416);
+    color: white;
+
+    border-radius: 30px;
+    border: 2px solid #ccc;
+
+    
+    cursor: pointer;
+    user-select: none;
+}
+.clear:hover{
+    background-color: rgba(255, 0, 0, 0.744);
+}
